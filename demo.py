@@ -1,0 +1,3 @@
+from tests.naive_bayes_tests import test_GaussianNBClassifier
+
+test_GaussianNBClassifier()
